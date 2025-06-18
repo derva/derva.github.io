@@ -22,3 +22,5 @@ vendor/
 **/media
 
 **/__pycache__
+## Custom
+.ideas.txt

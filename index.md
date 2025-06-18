@@ -7,7 +7,7 @@ tags: home
 
 <br>
 
-This is my new blog, where I plan to post some stuff. I use vim btw :)
+This is my blog. I write about technology. I use vim btw :)
 
 <br>
 

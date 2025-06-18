@@ -1,0 +1,9 @@
+Here are some good themes that can be used for blog posts
+
+- SMTP - Simple Mail Transfer Protocol
+- Something about planning project and developing it. Turning ideas to stuff. Explore more.
+- Embedded systems, distribudted systems - how it works, protocols
+- USB protocol
+- OS
+- MySQL, databases
+- WebRTC
