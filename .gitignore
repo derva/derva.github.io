@@ -24,3 +24,4 @@ vendor/
 **/__pycache__
 ## Custom
 .ideas.txt
+code/
